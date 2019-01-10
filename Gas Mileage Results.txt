@@ -1,0 +1,66 @@
+---- Results: 192.168.18.1 @ 2018/10/23 21:22:07 ----
+MPG:           22.5 mpg
+Starting Fuel: 9.5 gal.
+Trip Distance: 200.0 mi.
+Fuel Left:     0.61 gal.
+Trip Percentage: 106.88 %
+---- Results: 192.168.18.1 @ 2018/10/23 21:37:52 ----
+MPG:           22.5 mpg
+Starting Fuel: 12.2 gal.
+Trip Distance: 150.0 mi.
+Fuel Left:     5.53 gal.
+Trip Percentage: 183.00 %
+---- Results: 192.168.18.1 @ 2018/10/23 21:50:36 ----
+MPG:           23.1 mpg
+Starting Fuel: 10.2 gal.
+Trip Distance: 145.0 mi.
+Fuel Left:     3.92 gal.
+Trip Percentage: 162.50 %
+---- Results: 192.168.18.1 @ 2018/10/23 21:53:13 ----
+MPG:           23.5 mpg
+Starting Fuel: 10.0 gal.
+Trip Distance: 250.0 mi.
+Fuel Left:     -0.64 gal.
+Trip Percentage: 94.00 %
+---- Results: 192.168.18.1 @ 2018/10/23 21:59:13 ----
+MPG:           21.0 mpg
+Starting Fuel: 8.0 gal.
+Trip Distance: 150.0 mi.
+Fuel Left:     0.86 gal.
+Trip Percentage: 112.00 %
+---- Results: 192.168.18.1 @ 2018/10/23 22:06:06 ----
+MPG:           20.0 mpg
+Starting Fuel: 9.0 gal.
+Trip Distance: 175.0 mi.
+Fuel Left:     0.25 gal.
+Trip Percentage: 102.86 %
+---- Results: 192.168.18.1 @ 2018/10/23 22:29:43 ----
+MPG:           19.0 mpg
+Starting Fuel: 7.0 gal.
+Trip Distance: 300.0 mi.
+Fuel Left:     -8.79 gal.
+Trip Percentage: 44.33 %
+---- Results: 192.168.18.1 @ 2018/10/23 22:31:24 ----
+MPG:           19.7 mpg
+Starting Fuel: 8.5 gal.
+Trip Distance: 275.0 mi.
+Fuel Left:     -5.46 gal.
+Trip Percentage: 60.89 %
+---- Results: 192.168.18.1 @ 2018/10/23 22:34:54 ----
+MPG:           19.0 mpg
+Starting Fuel: 6.9 gal.
+Trip Distance: 250.0 mi.
+Fuel Left:     -6.26 gal.
+Trip Percentage: 52.44 %
+---- Results: 192.168.18.1 @ 2018/10/23 22:36:24 ----
+MPG:           19.8 mpg
+Starting Fuel: 7.0 gal.
+Trip Distance: 240.0 mi.
+Fuel Left:     -5.12 gal.
+Trip Percentage: 57.75 %
+---- Results: 192.168.18.1 @ 2018/10/23 22:49:57 ----
+MPG:           18.9 mpg
+Starting Fuel: 5.6 gal.
+Trip Distance: 185.0 mi.
+Fuel Left:     -4.19 gal.
+Trip Percentage: 57.21 %
