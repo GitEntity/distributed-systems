@@ -2,6 +2,8 @@
 
 **View branches for course work**
 
+### Lab 5: Logical Clocks for Mutual Exclusion, Bully Algorithm for Leader Election, and Ricart Agrawala Algorithm
+
 ###### Course Description
 This course exposes the student to the major paradigms of distributed systems. Topics include: Distributed architectures;
 distributed processing models like client-server and code migration; inter-process communication; distributed naming and
