@@ -2,6 +2,8 @@
 
 **View branches for course work**
 
+### Final Project: P2P Distributed Music Sharing
+
 ###### Course Description
 This course exposes the student to the major paradigms of distributed systems. Topics include: Distributed architectures;
 distributed processing models like client-server and code migration; inter-process communication; distributed naming and
