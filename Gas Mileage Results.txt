@@ -1,0 +1,59 @@
+---- Results: localhost/127.0.0.1:123 @ 2018/10/04 18:14:16 ----
+MPG:           15 mpg
+Starting Fuel: 4.5 gal.
+Trip Distance: 60 mi.
+Fuel Left:     0.50 gal.Trip Percentage: 112.50 %
+---- Results: localhost/127.0.0.1:123 @ 2018/10/04 18:25:45 ----
+MPG:           25 mpg
+Starting Fuel: 1 gal.
+Trip Distance: 50 mi.
+Fuel Left:     -1.00 gal.
+Trip Percentage: 50.00 %
+---- Results: localhost/127.0.0.1:123 @ 2018/10/04 18:35:17 ----
+MPG:           25 mpg
+Starting Fuel: 1 gal.
+Trip Distance: 30 mi.
+Fuel Left:     -0.20 gal.
+Trip Percentage: 83.33 %
+---- Results: localhost/127.0.0.1:123 @ 2018/10/04 18:52:24 ----
+MPG:           33 mpg
+Starting Fuel: 5 gal.
+Trip Distance: 12 mi.
+Fuel Left:     4.64 gal.
+Trip Percentage: 1375.00 %
+---- Results: localhost/127.0.0.1:123 @ 2018/10/04 19:13:11 ----
+MPG:           25 mpg
+Starting Fuel: 12 gal.
+Trip Distance: 50 mi.
+Fuel Left:     10.00 gal.
+Trip Percentage: 600.00 %
+---- Results: localhost/127.0.0.1:123 @ 2018/10/04 21:07:44 ----
+MPG:           15 mpg
+Starting Fuel: 4.5 gal.
+Trip Distance: 50 mi.
+Fuel Left:     1.17 gal.
+Trip Percentage: 135.00 %
+---- Results: localhost/127.0.0.1:123 @ 2018/10/04 23:17:37 ----
+MPG:           15 mpg
+Starting Fuel: 7 gal.
+Trip Distance: 52 mi.
+Fuel Left:     3.53 gal.
+Trip Percentage: 201.92 %
+---- Results: localhost/127.0.0.1:123 @ 2018/10/04 23:17:59 ----
+MPG:           20 mpg
+Starting Fuel: 13 gal.
+Trip Distance: 48.5 mi.
+Fuel Left:     10.58 gal.
+Trip Percentage: 536.08 %
+---- Results: localhost/127.0.0.1:123 @ 2018/10/04 23:18:40 ----
+MPG:           22 mpg
+Starting Fuel: 15.6 gal.
+Trip Distance: 75.55 mi.
+Fuel Left:     12.17 gal.
+Trip Percentage: 454.27 %
+---- Results: localhost/127.0.0.1:123 @ 2018/10/04 23:19:32 ----
+MPG:           30 mpg
+Starting Fuel: 13.5 gal.
+Trip Distance: 88.9 mi.
+Fuel Left:     10.54 gal.
+Trip Percentage: 455.57 %
